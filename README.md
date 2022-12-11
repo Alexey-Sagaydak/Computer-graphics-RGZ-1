@@ -5,4 +5,4 @@
 [Ссылка на вариант](http://opita.net/node/739)
 
 ## Результат работы программы
-![result.png]("/result.png")
+![result.png](result.png)
